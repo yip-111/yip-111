@@ -5,7 +5,7 @@
 # Hi, I'm Yip 👋
 
 ### 🎓 Computer Science Student
-### 🔐 Aspiring Cybersecurity 
+### 🔐 Aspiring Cybersecurity Engineer
 
 *Learning today, building tomorrow. 🌸*
 
@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science Student
-- 🔐 Interested in Cybersecurity 
-- 💻 Learning C++, Python and Linux
-- 🌐 Exploring Computer Networking
-- 🚀 Building my technical skills through projects
+-  Computer Science Student
+-  Interested in Cybersecurity 
+-  Learning C++, Python and Linux
+-  Exploring Computer Networking
+-  Building my technical skills through projects
 
 ## 🛠️ Technologies & Tools
 
