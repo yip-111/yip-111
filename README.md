@@ -1,16 +1,51 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yip-111/yip-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./cherry-blossom-cat.png" width="100%" alt="White Cat and Cherry Blossoms"/>
 
-Here are some ideas to get you started:
+# Hi, I'm Yip 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Computer Science Student
+### 🔐 Aspiring Cybersecurity & Cloud Security Engineer
+
+*Learning today, building tomorrow. 🌸*
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science Student
+- 🔐 Interested in Cybersecurity & Cloud Security
+- 💻 Learning C++, Python and Linux
+- 🌐 Exploring Computer Networking
+- 🚀 Building my technical skills through projects
+
+## 🛠️ Technologies & Tools
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+## 🌱 Currently Learning
+
+- [ ] C++ Programming
+- [ ] Python Programming
+- [ ] Linux Fundamentals
+- [ ] Computer Networking
+- [ ] Database Management
+- [ ] Cybersecurity Fundamentals
+
+## 🎯 My Goal
+
+To become a Security Engineer who understands systems, solves problems and builds secure solutions.
+
+---
+
+<div align="center">
+
+🌸 *Keep Learning. Keep Growing.*
+
+</div>
