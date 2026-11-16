@@ -5,7 +5,7 @@
 # Hi, I'm Yip 👋
 
 ### 🎓 Computer Science Student
-### 🔐 Aspiring Cybersecurity & Cloud Security Engineer
+### 🔐 Aspiring Cybersecurity 
 
 *Learning today, building tomorrow. 🌸*
 
